@@ -15,4 +15,4 @@ and this picture is in mobile mode
 
 <p>in this minimal project we use pure html and css and javascript</p>
 <p>and in this project we use flex box and grid system for layout the page and responsive the project</p>
-<p>This small project can be a good example of responsive pages with حعقث html and css</p>
+<p>This small project can be a good example of responsive pages with pure html and css</p>
